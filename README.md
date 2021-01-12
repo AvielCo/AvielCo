@@ -28,7 +28,7 @@ Jenkins, Jira
 [<img align="start" width="30px" margin="5px" src="https://github.com/AvielCo/AvielCo/blob/main/Icons/instagram.png?raw=true" />][instagram] 
 
 
-[SmartScript]: https://github.com/AvielCo/FinalProject
+[SmartScript]: https://github.com/AvielCo/SmartScript
 [facebook]: https://facebook.com/AvielCohenXD
 [twitter]: https://twitter.com/AvielCohen
 [instagram]: https://instagram.com/aviel133
