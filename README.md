@@ -1,5 +1,5 @@
 # About me
-> 25 years old, B.Sc, 4th year (final year) software engineer student in SCE Beer Sheva.  
+> 26 years old, B.Sc, 4th year (final year) software engineer student in SCE Beer Sheva.  
 > Team player, responsible and love to explore and learn new things everyday.  
 > Im currently looking for a first junior position as a software engieneer, I prefer backend developer but I will accept anything that suit my skills.  
 >- 🔭 I’m currently working on:
